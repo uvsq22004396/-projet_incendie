@@ -1,1 +1,2 @@
-je veux voir si la modificaton ce fait vbie. Elsa.
+#groupe BI TD4, groupe 2
+#Elsa Fernandez-Antolin
