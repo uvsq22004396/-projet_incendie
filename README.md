@@ -13,10 +13,10 @@ while(lambda <=omega)
 {
 
 
-p1.x=lambda;p1.y=lambda;
-p2.y=lambda;p2.y=lambda;
+p1.x=omega-(lambda*2);p1.y=alpha-lambda;
+p2.x=omega-(lambda*2);p2.y=alpha-lambda;
 
-draw_line(p1,p2,green);
+draw_fill_rectangle(p1,p2,green);
 lambda = lambda + omega/6;
 
 }
